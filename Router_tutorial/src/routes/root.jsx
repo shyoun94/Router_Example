@@ -66,7 +66,7 @@ export default function Root() {
             </ul>
           ) : (
             <p>
-              <i>No contacts</i>
+              <i>No contacts.</i>
             </p>
           )}
         </nav>
